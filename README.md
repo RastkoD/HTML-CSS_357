@@ -6,7 +6,6 @@ It is intended for sharing, quick navigation, and as a pinned overview on my Git
 Each project includes:
 - :rocket: A live website
 - 📁 A dedicated GitHub repository
-- 🎯 A clear learning focus
 
 ---
 
