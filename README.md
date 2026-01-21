@@ -31,7 +31,7 @@ Each project includes:
 ## 🚀 Advanced Projects (3)
 
 ### Posters / Art
-- :rocket: [Posters/Art](https://posters-art.netlify.app/)
+- :rocket: [Live Demo](https://posters-art.netlify.app/)
 - 📁 [GitHub Repo](https://github.com/RastkoD/Posters-Art)
 
 ### Basquiat
