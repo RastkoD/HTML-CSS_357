@@ -28,7 +28,7 @@ Each project includes:
 
 ---
 
-## 🚀 Advanced Projects (3)
+## 🧩 Advanced Projects (3)
 
 ### Posters / Art
 - :rocket: [Live Demo](https://posters-art.netlify.app/)
@@ -44,7 +44,7 @@ Each project includes:
 
 ---
 
-## 🚀 Intermediate Projects (5)
+## 🛠️ Intermediate Projects (5)
 
 ### Jan Tschichold
 - :rocket: [Live Demo](https://jan-tschichold.netlify.app/)
@@ -68,7 +68,7 @@ Each project includes:
 
 ---
 
-## 🚀 Beginner Projects (7)
+## 🧱 Beginner Projects (7)
 
 ### HTML / CSS Starter Template
 A reusable starter template including:
